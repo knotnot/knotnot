@@ -28,7 +28,7 @@ I’m really into **math**  and **cybersecurity** , but lately I’ve been super
 I learn fast and honestly believe I’m getting smarter every day!
 
 📍 From: Bangkok, Thailand  
-📊 Interests: Big Data • Data Engineer • Data science
+📊 Interests: Big Data • Data Engineer • Data science  
 📫 Contact: witchayut.tang@gmail.com
 
 🔭 I’m currently working on a **Big Data** project using **PySpark** on the **GCP** platform.
