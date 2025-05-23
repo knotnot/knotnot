@@ -29,7 +29,8 @@ I learn fast and honestly believe I’m getting smarter every day!
 
 📍 From: Bangkok, Thailand  
 📊 Interests: Big Data • Data Engineer • Data science  
-📫 Contact: witchayut.tang@gmail.com
+📫 Contact: witchayut.tang@gmail.com  
+📁 Portfolio: https://knotnot.github.io/portfolio/
 
 🔭 I’m currently working on a **Big Data** project using **PySpark** on the **GCP** platform.
 If you're into data too, let’s learn and build something awesome together — just reach out! 🙌
