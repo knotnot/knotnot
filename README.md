@@ -45,7 +45,9 @@ Planning to dive deeper into Java, Scala, and maybe even Rust 🚀
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" title="Docker" width="40" height="40"/> 
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/UbuntuCoF.svg/1024px-UbuntuCoF.svg.png" title="Ubuntu" width="40" height="40">
   <img src="https://zixzax.net/wp-content/uploads/2020/05/MySQL-%E0%B8%84%E0%B8%B7%E0%B8%AD%E0%B8%AD%E0%B8%B0%E0%B9%84%E0%B8%A3.png" title="MySQL" width="40" height="40">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/250px-Postgresql_elephant.svg.png" title="Postgres" width="40" height="40">        
   <img src="https://avatars.githubusercontent.com/u/2810941?s=280&v=4" title="GCP" width="40" height="40">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRZPiBZt1SCK4epdYletIQi0Zg_hJQStvBmQ&s" title="AWS" width="40" height="40">
   
   
 
